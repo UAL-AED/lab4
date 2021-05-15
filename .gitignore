@@ -1,0 +1,11 @@
+__pycache__/
+.vscode/
+*pyc
+htmlcov/
+.coverage
+.DS_Store
+program.py
+build/
+dist/
+*.egg-info/
+.vim/
