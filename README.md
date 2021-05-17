@@ -8,7 +8,7 @@ Este enunciado é acompanhado por um conjunto de ADTs, implementações de items
 
 Vai ser necessário criar o seguinte módulo:
 
-- **`aed_ds/dictionary/open_hash_table.py`**, que vai ter a classe `OpenHashTable`, com a implementação da tabela de dispersão aberta, de acordo com o ADT `Dictionary`, em `aed_ds/dictionaries/adt_dictionary.py`
+- **`aed_ds/dictionaries/open_hash_table.py`**, que vai ter a classe `OpenHashTable`, com a implementação da tabela de dispersão aberta, de acordo com o ADT `Dictionary`, em `aed_ds/dictionaries/adt_dictionary.py`
 
 A acompanhar o código segue também uma bateria de testes:
 
