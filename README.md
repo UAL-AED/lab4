@@ -63,3 +63,9 @@ Para efetuar a atualização de enunciado:
 3. Obter as alterações (e.g., ficheiro `README.md`)
 
         git checkout upstream/main README.md
+
+### 2021/05/17 - Adiciona o módulo com o item de dicionário
+
+    git fetch upstream
+    git checkout upstream/main README.md
+    git checkout upstream/main aed_ds/dictionaries/item.py
