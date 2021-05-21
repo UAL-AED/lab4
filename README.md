@@ -69,3 +69,12 @@ Para efetuar a atualização de enunciado:
     git fetch upstream
     git checkout upstream/main README.md
     git checkout upstream/main aed_ds/dictionaries/item.py
+
+### 2021/05/21 - Adiciona `__init__.py` aos módulos de teste e remove exceção de `is_full` no ADT Dicionário
+
+    git fetch upstream
+    git checkout upstream/main README.md
+    git checkout tests/__init__.py
+    git checkout tests/dictionaries/__init__.py
+    git checkout aed_ds/dictionaries/adt_dictionary.py
+

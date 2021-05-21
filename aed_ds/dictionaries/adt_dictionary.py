@@ -9,9 +9,7 @@ class Dictionary(ABC):
 
     @abstractmethod
     def is_full(self) -> bool:
-        """Returns true if the dictionary is full.
-
-        Throws NoSuchElementException"""
+        """Returns true if the dictionary is full."""
 
     @abstractmethod
     def get(self, k: object) -> object:
