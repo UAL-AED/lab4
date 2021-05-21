@@ -74,7 +74,7 @@ Para efetuar a atualização de enunciado:
 
     git fetch upstream
     git checkout upstream/main README.md
-    git checkout tests/__init__.py
-    git checkout tests/dictionaries/__init__.py
-    git checkout aed_ds/dictionaries/adt_dictionary.py
+    git checkout upstream/main tests/__init__.py
+    git checkout upstream/main tests/dictionaries/__init__.py
+    git checkout upstream/main aed_ds/dictionaries/adt_dictionary.py
 
